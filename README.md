@@ -18,8 +18,7 @@
 - 📫 How to reach me **https://twitter.com/venom_kage**
 
 <h3 align="left">Languages and Tools:</h3><br/>
-<div align="left">
-
+<div align="left" style="display:flex;flex-direction:row">
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
 </a>
@@ -36,6 +35,8 @@
 <a href="https://www.buymeacoffee.com/venomkage"> 
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="venomkage" /></a>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=venomkage&show_icons=true&locale=en&layout=compact" alt="venomkage" /><br>
+<div style="display:flex">
+<img style="margin-right:15;" src="https://github-readme-stats.vercel.app/api/top-langs?username=venomkage&show_icons=true&locale=en&layout=compact" alt="venomkage" /><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=venomkage&" alt="venomkage" />
+</div>
 </div>
