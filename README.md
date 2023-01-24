@@ -30,7 +30,7 @@
 </div>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/venomkage"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="venomkage" /></a></p><br>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venomkage&show_icons=true&locale=en&layout=compact" alt="venomkage" /></p><br>
+<p><a href="https://www.buymeacoffee.com/venomkage"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="venomkage" /></a></p><br><br>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venomkage&show_icons=true&locale=en&layout=compact" alt="venomkage" /></p><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=venomkage&" alt="venomkage" /></p>
