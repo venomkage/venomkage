@@ -31,7 +31,9 @@
 
 <h3 align="left">Support:</h3>
 <div style="display:flex;flex-direction:column;align-items:left;justify-content:space-between;">
-<a href="https://www.buymeacoffee.com/venomkage"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="venomkage" /></a><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venomkage&show_icons=true&locale=en&layout=compact" alt="venomkage" /><br>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=venomkage&" alt="venomkage" />
+<a href="https://www.buymeacoffee.com/venomkage"> 
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="venomkage" /></a>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=venomkage&show_icons=true&locale=en&layout=compact" alt="venomkage" /><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=venomkage&" alt="venomkage" />
 </div>
