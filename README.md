@@ -33,9 +33,6 @@ I'm a self-taught full-stack developer from India. And I sometimes create YouTub
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-
-#
-
 ## <br><br>
 
 ### 📊 Stats
@@ -47,6 +44,7 @@ I'm a self-taught full-stack developer from India. And I sometimes create YouTub
 #
 
 ### Support:
+
 <div style="display:flex;flex-direction:column;align-items:left;justify-content:space-between;">
 <a href="https://www.buymeacoffee.com/venomkage"> 
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="venomkage" /></a>
