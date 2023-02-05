@@ -1,38 +1,65 @@
-<h1 align="center">Hi 👋, I'm Vipin Kumar</h1>
-<h3 align="center">Self-taught React developer from India</h3>
+# 🎖️ Venom Kage
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venomkage&label=Profile%20views&color=0e75b6&style=flat" alt="venomkage" /> </p>
+**`Kaging since 2001`**
 
-<img align="center" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
+I'm a self-taught full-stack developer from India. And I sometimes create YouTube videos as well. All coding projects are built from scratch, from planning and designing to developing them. All video content is built the same way, from ideation and planning, all the way to finalizing the content with important touches. My YouTube channel is "[VenomKage][youtube]" with more than 21k views.
 
-- 🔭 I’m currently working on **sugess**
+   <p align="left">
+      <a href="https://www.youtube.com/c/venomkage?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://github.com/VenomKage?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/VenomKage?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/VenomKage?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VenomKage?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
+---
 
-- 🤝 I’m looking for help with **open source contribution**
+### 🧰 Languages and Tools
 
-- 👨‍💻 My channel [https://www.youtube.com/venomkage](https://www.youtube.com/venomkage)
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
-- 💬 Ask me about **ReactJs, React Native**
 
-- 📫 How to reach me **https://twitter.com/venom_kage**
+#
 
-<h3 align="left">Languages and Tools:</h3><br/>
-<div align="left" style="display:flex;flex-direction:row">
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-</a>
+## <br><br>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>  
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+### 📊 Stats
 
-</div>
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=venomkage&show_icons=true&theme=gruvbox)
 
-<h3 align="left">Support:</h3>
+![GitHub Streak](https://streak-stats.demolab.com?user=venomkage&theme=gruvbox&border_radius=4.5)
+
+#
+
+### Support:
 <div style="display:flex;flex-direction:column;align-items:left;justify-content:space-between;">
 <a href="https://www.buymeacoffee.com/venomkage"> 
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="venomkage" /></a>
 <br>
 </div>
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Kage's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS and android development with a dream to build my own app, but that soon got overshadowed because of my job, that I landed after learning React Native, during my graduation years. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my job to pursue my desire of making my own application and to maybe publish YouTube videos simultaneously, and that has been my focus ever since.
+
+In 2023 I'm focusing on learning more skills like Docker, Kubernetes and Cloud platforms like aws which will eventually help me in launching a successful product of mine.
+Thanks for reading, and keep learning.
+
+[youtube]: https://youtube.com/venomkage
