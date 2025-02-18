@@ -29,7 +29,6 @@ I'm a self-taught full-stack developer from India. And I sometimes create YouTub
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
@@ -55,9 +54,12 @@ I'm a self-taught full-stack developer from India. And I sometimes create YouTub
 
 <details>
  <summary><h3>👨‍💻 Kage's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS and android development with a dream to build my own app, but that soon got overshadowed because of my job, that I landed after learning React Native, during my graduation years. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my job to pursue my desire of making my own application and to maybe publish YouTube videos simultaneously, and that has been my focus ever since.
+  I began my coding journey as an eager computer science student, hungry to explore every corner of the programming universe—from mastering code and Unix to diving deep into Linux and the underlying theories. While I was teaching myself iOS and Android development, fueled by dreams of building my own app, fate led me to a job opportunity after I had learned React Native during my graduation years.
 
-In 2023 I'm focusing on learning more skills like Docker, Kubernetes and Cloud platforms like aws which will eventually help me in launching a successful product of mine.
-Thanks for reading, and keep learning.
+Yet, amid this whirlwind, another passion kept burning brightly: creating YouTube content. Eventually, I made the bold choice to leave my job, dedicating myself to the dual pursuit of developing an innovative application and crafting engaging YouTube videos—a journey that has defined my focus ever since.
+
+In 2025, I'm expanding my skill set even further by diving into SAP, AI/ML, and Cybersecurity. I don't know, we'll see at the end of the year. These tools are paving the way toward the launch of my very own groundbreaking product.
+
+Thank you for reading, and remember—keep learning!
 
 [youtube]: https://youtube.com/venomkage
